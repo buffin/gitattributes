@@ -1,2 +1,3 @@
+*          text=auto
 *.lf       text eol=lf
 *.crlf     text eol=crlf
